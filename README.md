@@ -11,3 +11,8 @@
 
 a) Orquestração de contêineres: O uso de contêineres, como o Docker, pode facilitar a implantação e a execução de aplicativos em diferentes ambientes. A orquestração de contêineres, por meio de ferramentas como o Kubernetes, permite a implantação e o gerenciamento de aplicativos em escala, garantindo alta disponibilidade e escalabilidade.
 b) Implementação de feedback contínuo: Incorporar feedback contínuo de usuários e partes interessadas durante todo o ciclo de desenvolvimento é uma prática valiosa. Isso pode ser alcançado por meio de testes de aceitação automatizados, coleta de métricas de uso em tempo real e obtenção de feedback dos usuários finais. O feedback contínuo ajuda a validar as decisões de desenvolvimento e a melhorar a experiência do usuário.
+
+# 1394307@sga.pucminas.br
+# Turma Blockchain
+# Marcio Gomes de Santana
+
