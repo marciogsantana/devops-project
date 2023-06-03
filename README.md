@@ -1,4 +1,4 @@
-# devops-project
+# Devops-project
 # Boas práticas do projeto
 
 1-  Infraestrutura como Código (IaC): Nessa prática, a infraestrutura é gerenciada como código, permitindo que seja versionada, revisada e implantada de maneira consistente. Isso reduz erros de configuração e automatiza a criação e configuração de ambientes. A vantagem é ter uma infraestrutura confiável e consistente ao longo do ciclo de vida do software.
